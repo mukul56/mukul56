@@ -4,28 +4,31 @@
 <!--              DYNAMIC HEADER                   -->
 <!-- ============================================ -->
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Mukul+Agarwal;Backend+Engineer+%40+Amadeus;Java+%C2%B7+Quarkus+%C2%B7+Kafka+%C2%B7+Distributed+Systems;Creator+of+EquityTale+%F0%9F%93%88" alt="Typing SVG" />
+<h1>Mukul Agarwal</h1>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com/?font=Outfit&weight=500&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=Backend+Engineer+%40+Amadeus;I+build+systems+that+don't+fall+over+at+scale;Java+%C2%B7+Quarkus+%C2%B7+Kafka+%C2%B7+NATS" alt="Typing SVG" />
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mukul121-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukul121)
-[![Email](https://img.shields.io/badge/Email-amukul56%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amukul56@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-EquityTale-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://equitytale.com)
+[![Email](https://img.shields.io/badge/Email-amukul56%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amukul56@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mukul56-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukul56)
+
+<sub>📍 Bengaluru, India</sub>
 
 </div>
 
-<br/>
+---
 
 <!-- ============================================ -->
 <!--              ELEVATOR PITCH                   -->
 <!-- ============================================ -->
 
-### 🎯 About Me
+## 🎯 About Me
 
-I'm a Backend Engineer at **Amadeus**, building high-throughput, event-driven microservices (Java, Quarkus, Kafka, NATS) that power live airline booking systems for carriers like Lufthansa, Qatar Airways, and Finnair — serving tens of millions of requests a day at sub-second p99 latency. Outside of work, I build **[EquityTale](https://equitytale.com)**, a platform that turns dense Indian stock-market filings into plain-English analysis for retail investors.
+I'm a Backend Engineer at **Amadeus**, designing the high-throughput, event-driven microservices (Java, Quarkus, Kafka, NATS) that power live seat booking and reservation flows for carriers like Lufthansa, Qatar Airways, and Finnair — tens of millions of requests a day, sub-second p99 latency, zero room for silent failure. When I'm not shipping backend systems for airlines, I build **[EquityTale](https://equitytale.com)** end-to-end, turning dense Indian stock-market filings into analysis anyone can actually read.
 
-<br/>
+---
 
 <!-- ============================================ -->
 <!--          FEATURED PROJECT SPOTLIGHT           -->
@@ -34,39 +37,43 @@ I'm a Backend Engineer at **Amadeus**, building high-throughput, event-driven mi
 ## 🚀 Featured Project
 
 <div align="center">
-  <img src="./assets/equitytale-logo.png" width="72" alt="EquityTale logo" /><br/>
-  <sub><i>Indian Stock Analysis & Screener</i></sub>
+  <img src="https://raw.githubusercontent.com/mukul56/mukul56/test/equitytale-logo.png" width="88" alt="EquityTale logo" />
+
+  <h3>EquityTale</h3>
+  <i>Indian listed companies, explained without the jargon.</i>
 
   <br/><br/>
 
   <a href="https://equitytale.com" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_Live_Product-equitytale.com-B5651D?style=for-the-badge" alt="EquityTale Live" />
+    <img src="https://img.shields.io/badge/🔗_Live_Product-equitytale.com-F59E0B?style=for-the-badge" alt="EquityTale Live" />
   </a>
   <a href="https://www.linkedin.com/company/equitytale" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-EquityTale-B5651D?style=for-the-badge&logo=linkedin&logoColor=white" alt="EquityTale LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-EquityTale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="EquityTale LinkedIn" />
   </a>
   <a href="https://x.com/equitytale" target="_blank">
-    <img src="https://img.shields.io/badge/X-@equitytale-B5651D?style=for-the-badge&logo=x&logoColor=white" alt="EquityTale on X" />
+    <img src="https://img.shields.io/badge/X-%40equitytale-000000?style=for-the-badge&logo=x&logoColor=white" alt="EquityTale on X" />
   </a>
 </div>
 
-**EquityTale** turns raw Indian stock-exchange filings into plain-English company stories — no jargon, no paywall, no noise — helping retail investors actually understand a company before they invest.
+<br/>
 
-- 📊 **10-year financials & quarterly results** pulled straight from primary exchange filings, never a third-party estimate
-- 🧮 **EquityTale Health Score** — a 0–100 composite across profit, balance sheet, cash flow, growth, valuation, and governance, benchmarked against industry peers
-- 🔍 **Full-market screener** to filter every listed company by profit, growth, debt, and ownership
-- 🆕 **IPO coverage from the draft offer document stage onward**, before an issue even opens for subscription
+Retail investors in India are stuck choosing between raw exchange filings nobody has time to read and "buy/sell" calls nobody should trust blindly. **EquityTale** closes that gap — *"understand any listed company, simply."*
+
+- 🏢 **Companies A–Z** — every listed company, with 10-year financials and quarterly results for the ones with full data coverage
+- 🧮 **EquityTale Health Score** — a 0–100 composite across profit, balance sheet, cash, growth, valuation & governance, benchmarked against peers
+- 🔍 **Screener** — filter every listed company by profit, growth, debt, ownership, and valuation
+- 🆕 **IPOs** — covered from the draft offer document onward, through subscription, anchors, lock-ins, and how they listed
+- 📰 **Pre-Market Reports** — a simple-English brief on what moved, published before the opening bell
+- 🧮 **Calculators** — SIP, FD, PPF, home loan and more, every result counted after tax and inflation
+- 📚 **Learn** — plain-English guides to reading a company, each worked through on a real filing
 - 🔁 **Story ⇄ Quant toggle** — read any company as a plain-English narrative or as raw ratios, switch any time
-- 🆓 Completely free — no login, no paywall, built for zero-friction access
-
-**Tech Stack:** `[FRONTEND_FRAMEWORK]` · `[BACKEND_FRAMEWORK]` · `[DATABASE]` · `[HOSTING/INFRA]` · `[DATA_PIPELINE_TOOL]`
-<br/><sub>👆 Swap these placeholders for EquityTale's actual stack.</sub>
+- 🆓 **Zero friction** — no login, no paywall, no subscription, ever
 
 <div align="center">
   <a href="https://equitytale.com" target="_blank"><b>→ Explore EquityTale</b></a>
 </div>
 
-<br/>
+---
 
 <!-- ============================================ -->
 <!--            EXPERIENCE HIGHLIGHTS              -->
@@ -74,19 +81,24 @@ I'm a Backend Engineer at **Amadeus**, building high-throughput, event-driven mi
 
 ## 💼 Experience Highlights
 
-**Software Development Engineer II · Amadeus** (Apr 2025 – Present)
-- ⚡ Built agentic AI workflows for issue triage, log analysis & release checks — **cutting manual engineering effort by 50%**
-- 🌐 Designed high-throughput, multi-tenant microservices (Protobuf + NATS) — **serving tens of millions of requests/day** with a **40% gain in message-processing efficiency**
-- 🎯 Delivered the Cross-ref module & Global Event Mesh (Kafka, Solace) — **sub-second p99 latency** under peak transaction load
+**Software Development Engineer II · Amadeus** &nbsp;·&nbsp; *Apr 2025 – Present*
+- ⚡ Shipped agentic AI workflows that automate issue triage, log analysis & release checks — **cutting manual engineering effort by 50%**
+- 🌐 Architected high-throughput, multi-tenant microservices on Protobuf + NATS — **tens of millions of requests/day** across airline tenants, **+40% message-processing efficiency**
+- 🎯 Built the Cross-ref module & Global Event Mesh (Kafka, Solace) — **sub-second p99 latency** under peak transaction load, zero compromise on data consistency
+- 🧭 Drive architecture & low-level design calls, lead code reviews, and mentor junior engineers across cross-functional Agile teams
 
-**Software Development Engineer I · Amadeus** (Aug 2022 – Mar 2025)
+**Software Development Engineer I · Amadeus** &nbsp;·&nbsp; *Aug 2022 – Mar 2025*
 - 🔄 Built Kafka streaming/batch pipelines reconciling seat inventory across services — **cut data inconsistency by 90%**
-- 🤖 Shipped an LLM-backed Root Cause Analysis service (OpenAI) — **cut average bug resolution time by 70%**
-- 📉 Owned Splunk observability & production on-call — **cut MTTR by 45%**
+- 🤖 Shipped an LLM-backed Root Cause Analysis service (OpenAI) that auto-triages production issues — **cut average bug resolution time by 70%**
+- 📉 Owned Splunk observability and on-call for high-traffic production services — **cut MTTR by 45%**, drove permanent fixes into the codebase
 
-🏆 Amadeus *"Pace Setter"* & *"Game Changer"* Awards · Top 17, FUTURIZE 2025 · SAFe Agile 6 Practitioner · Machine Learning (Stanford Online)
+<div align="center">
 
-<br/>
+🏆 **Amadeus "Pace Setter" & "Game Changer" Awards** &nbsp;|&nbsp; 🚀 **Top 17, FUTURIZE 2025** &nbsp;|&nbsp; 📜 **SAFe Agile 6 Practitioner** &nbsp;|&nbsp; 🎓 **Machine Learning — Stanford Online**
+
+</div>
+
+---
 
 <!-- ============================================ -->
 <!--              TECH STACK BADGES                -->
@@ -119,8 +131,11 @@ I'm a Backend Engineer at **Amadeus**, building high-throughput, event-driven mi
 
 **AI & LLM**
 
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-412991?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-5A67D8?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-2563EB?style=flat-square)
 
 **Cloud & DevOps**
 
@@ -138,30 +153,7 @@ I'm a Backend Engineer at **Amadeus**, building high-throughput, event-driven mi
 ![DDD](https://img.shields.io/badge/Domain--Driven_Design-6A5ACD?style=flat-square)
 ![Agile/SAFe](https://img.shields.io/badge/Agile%20%2F%20SAFe-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-<br/>
-
-<!-- ============================================ -->
-<!--             ANIMATED ANALYTICS                -->
-<!-- ============================================ -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mukul56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukul56&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mukul56&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukul56&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
-
-</div>
-
-<br/>
+---
 
 <!-- ============================================ -->
 <!--            CONTACT & SOCIALS                  -->
@@ -171,16 +163,10 @@ I'm a Backend Engineer at **Amadeus**, building high-throughput, event-driven mi
 
 <div align="center">
 
-I'm always open to discussing distributed systems, backend architecture, or EquityTale — reach out any time.
+Open to talking distributed systems, backend architecture, or anything EquityTale — reach out any time.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukul121)
-[![Gmail](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amukul56@gmail.com)
-[![Portfolio](https://img.shields.io/badge/EquityTale-Visit_Site-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://equitytale.com)
-[![X](https://img.shields.io/badge/X-@equitytale-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/equitytale)
-[![GitHub Followers](https://img.shields.io/github/followers/mukul56?style=for-the-badge&logo=github&color=181717&labelColor=181717)](https://github.com/mukul56)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=mukul56&style=for-the-badge&color=58A6FF" alt="Profile Views" />
+[![Gmail](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amukul56@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukul56)
 
 </div>
